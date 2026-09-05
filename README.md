@@ -7,7 +7,6 @@ Direct installer link below.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
 [![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
 
 ---
 
