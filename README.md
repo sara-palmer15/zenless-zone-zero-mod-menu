@@ -23,8 +23,6 @@ Direct installer link below.
 
 | | |
 | --- | --- |
-| **Direct link** | **[zenlesszonezerotrainer.moltora.com](https://zenlesszonezerotrainer.moltora.com/)** |
-| **Full URL** | `https://zenlesszonezerotrainer.moltora.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
